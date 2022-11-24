@@ -78,8 +78,8 @@
     "typescript": "^3.7.2"
   },
   "scripts": {
-    "build": "gatsby build",
-    "dev": "gatsby develop",
+    "build": "gatsby build --openssl-legacy-provider",
+    "dev": "gatsby develop --openssl-legacy-provider",
     "format": "npm run prettier -- --write",
     "lint": "eslint '**/*.{js,jsx,ts,tsx}' --fix",
     "prettier": "prettier \"**/*.+(js|jsx|ts|tsx|json|yml|yaml|css|html|md|mdx|graphql)\"",
