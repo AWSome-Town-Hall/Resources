@@ -74,6 +74,8 @@ jobs:
             ${{ runner.os }}-gatsby-build-
       - name: Install dependencies
         run: npm install --force
+      - name : Resolving envelop issue
+        run : export NODE_OPTIONS=--openssl-legacy-provider
       - name: Build with Gatsby
         env:
           PREFIX_PATHS: 'true'
