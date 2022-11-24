@@ -1,2 +1,2 @@
-hooks:
-  pre-commit: npm run type-check && lint-staged
+# hooks:
+#   pre-commit: npm run type-check && lint-staged
