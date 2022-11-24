@@ -73,11 +73,11 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-gatsby-build-
       - name: Install dependencies
-        run: ${{ steps.detect-package-manager.outputs.manager --force}} ${{ steps.detect-package-manager.outputs.command --force}}
+        run: npm install --force
       - name: Build with Gatsby
         env:
           PREFIX_PATHS: 'true'
-        run: ${{ steps.detect-package-manager.outputs.manager }} run build
+        run: gatsby develop
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
