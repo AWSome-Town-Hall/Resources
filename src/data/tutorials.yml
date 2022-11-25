@@ -1,0 +1,150 @@
+- title: 'Getting Started with AWS'
+  link: http://aws.training
+  formats:
+    - text
+  language: en
+  date: 2022-01-19
+  authors:
+    - AWS
+  source: 'aws.training'
+  topics:
+    - aws
+    - dotcms
+    - graphql
+- title: 'Dealing with dynamic images in Gatsby'
+  link: https://fmontes.com/blog/dynamic-gatsby-images-an-anternative/
+  formats:
+    - text
+  language: en
+  date: 2020-05-04
+  authors:
+    - Freddy Montes
+  source: 'fmontes.com'
+  topics:
+    - images
+    - cloudinary
+    - graphql
+- title: 'How to create a Gatsby.js transformer plugin'
+  link: https://maximzubarev.com/how-to-create-a-gatsby-js-transformer-plugin
+  formats:
+    - text
+  language: en
+  date: 2020-02-17
+  authors:
+    - Maxim Zubarev
+  source: 'maximzubarev.com'
+  topics:
+    - plugins
+    - remark
+    - markdown
+    - gatsby-transformer-remark
+- title: 'How to Build a GatsbyJS Guitar-Chords-MDX Theme From Scratch'
+  link: https://owlypixel.com/building-gatsbyjs-theme-from-scratch/
+  formats:
+    - text
+  language: en
+  date: 2019-11-22
+  authors:
+    - Owlypixel
+  source: 'owlypixel.com'
+  topics:
+    - themes
+    - mdx
+    - guitar
+- title: 'How GatsbyJS can help your business to overtake competition?'
+  link: https://blog.pagepro.co/2019/10/09/how-gatsbyjs-can-help-your-business-to-overtake-competition/
+  formats:
+    - text
+  language: en
+  date: 2019-10-09
+  authors:
+    - Chris Lojniewski
+  source: Pagepro Blog
+  topics:
+    - business
+    - education
+- title: 'How to convert existing markdown Gatsby blog to mdx'
+  link: https://gatsbytemplates.io/blog/mdx-convert/
+  formats:
+    - text
+  language: en
+  date: 2019-09-29
+  authors:
+    - Vsevolod Andruschenko
+  source: 'gatsbytemplates.io'
+  topics:
+    - blog
+    - markdown
+    - mdx
+    - gatsby-plugin-mdx
+
+- title: Custom Gatsby Source Plugin Tutorial
+  link: https://codebushi.com/custom-gatsby-source-plugin/
+  formats:
+    - text
+  language: en
+  date: 2019-08-24
+  length: ''
+  authors:
+    - Hunter Chang
+  source: 'codebushi.com'
+  topics:
+    - graphql
+    - gatsby-node
+    - sourceNodes
+
+- title: Gatsby and Snipcart E-commerce Tutorial
+  link: https://www.frontendstumbles.com/gatsby-and-snipcart-ecommerce-tutorial/
+  formats:
+    - text
+  language: en
+  date: 2019-07-10
+  length: ''
+  authors:
+    - Issy Dennis
+  source: 'frontendstumbles.com'
+  topics:
+    - ecommerce
+    - snipcart
+    - e-commerce
+    - markdown
+    - styled-components
+    - starters
+
+- title: Using Gatsby Image with Netlify CMS
+  link: https://www.frontendstumbles.com/using-gatsby-image-with-netlify-cms/
+  formats:
+    - text
+  language: en
+  date: 2019-05-24
+  length: ''
+  authors:
+    - Issy Dennis
+  source: 'frontendstumbles.com'
+  topics:
+    - netlify-cms
+    - cms
+    - graphql
+    - markdown
+    - gatsby-image
+    - gatsby-remark-images
+    - gatsby-remark-relative-images
+
+- title: How to make a Gatsby site with Netlify CMS
+  link: https://www.frontendstumbles.com/gatsby-and-netlify-cms-tutorial/
+  formats:
+    - text
+  language: en
+  date: 2019-05-21
+  length: ''
+  authors:
+    - Issy Dennis
+  source: 'frontendstumbles.com'
+  topics:
+    - netlify-cms
+    - cms
+    - graphql
+    - markdown
+
+
+
