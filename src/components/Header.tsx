@@ -23,7 +23,7 @@ export default function Header() {
           />
 
           <Heading>
-            <Bold>AWS</Bold>omeTownHall Is an Open Source community Where you can find {` `}
+            Learn <Bold>AWS</Bold> for <Bold>Free<Bold> {` `}
             {count}&nbsp;videos, audios and written tutorials to help you learn{' '}
             <Link href="https://awsome-town-hall.github.io/">AWS</Link>
             {`. `}
