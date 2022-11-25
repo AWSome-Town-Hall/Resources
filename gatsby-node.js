@@ -13,15 +13,13 @@ exports.onCreateNode = ({ node, actions }) => {
     createNodeField({
       node,
       name: `formatsAsString`,
-      value: convertArrayToString(node.formats),
-      length: convertArrayToString(node.formats)
+      value: convertArrayToString(node.formats)
     })
 
     createNodeField({
       node,
       name: `topicsAsString`,
-      value: convertArrayToString(node.topics),
-      length: convertArrayToString(node.formats)
+      value: convertArrayToString(node.topics)
     })
 
     createNodeField({
@@ -51,7 +49,6 @@ exports.createPages = async ({ graphql, reporter }) => {
             link
             formats
             date(formatString: "MMM DD, YYYY")
-            length
             authors
             source
             topics
@@ -73,7 +70,6 @@ exports.createPages = async ({ graphql, reporter }) => {
             formats
             language
             date(formatString: "MMM DD, YYYY")
-            length
             authors
             source
             topics
