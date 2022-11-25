@@ -14,18 +14,21 @@ exports.onCreateNode = ({ node, actions }) => {
       node,
       name: `formatsAsString`,
       value: convertArrayToString(node.formats),
+      length: convertArrayToString(node.formats)
     })
 
     createNodeField({
       node,
       name: `topicsAsString`,
       value: convertArrayToString(node.topics),
+      length: convertArrayToString(node.formats)
     })
 
     createNodeField({
       node,
       name: `authorsAsString`,
       value: convertArrayToString(node.authors),
+      length: convertArrayToString(node.formats)
     })
   }
 }
