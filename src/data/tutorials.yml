@@ -13,6 +13,7 @@
     - cloud learning
     - AWS Learning
     - Freemium
+
 - title: 'AWS Developer 2022 Notes'
   link: https://github.com/adilshehzad786/AWS-Developer-Associate-Notes
   formats:
@@ -28,6 +29,7 @@
     - cloud learning
     - aws learning
     - Freemium
+
 - title: 'Automating Amazon Web Services(AWS) with Lambda, Python, and Boto3'
   link: https://medium.com/@adilshehzad786/automating-amazon-web-services-aws-with-lambda-python-and-boto3-36311ca97881
   formats:
@@ -91,7 +93,7 @@
     - cloud learning
     - aws learning
     - Freemium
-    
+
 - title: 'Automating Amazon Web Services(AWS) with Lambda, Python, and Boto3'
   link: https://medium.com/@adilshehzad786/automating-amazon-web-services-aws-with-lambda-python-and-boto3-36311ca97881
   formats:
@@ -106,4 +108,100 @@
     - aws developer
     - cloud learning
     - aws learning
+    - Freemium
+
+- title: 'Getting Started with AWS'
+  link: http://aws.training
+  formats:
+    - text
+  language: en
+  date: 2022-11-25
+  authors:
+    - AWS Official
+  source: 'aws.training'
+  topics:
+    - aws
+    - s3
+    - cloud learning
+    - AWS Learning
+    - Freemium
+
+- title: 'Getting Started with AWS'
+  link: http://aws.training
+  formats:
+    - text
+  language: en
+  date: 2022-11-25
+  authors:
+    - AWS Official
+  source: 'aws.training'
+  topics:
+    - aws
+    - s3
+    - cloud learning
+    - AWS Learning
+    - Freemium
+
+- title: 'Getting Started with AWS'
+  link: http://aws.training
+  formats:
+    - text
+  language: en
+  date: 2022-11-25
+  authors:
+    - AWS Official
+  source: 'aws.training'
+  topics:
+    - aws
+    - s3
+    - cloud learning
+    - AWS Learning
+    - Freemium
+
+- title: 'Getting Started with AWS'
+  link: http://aws.training
+  formats:
+    - text
+  language: en
+  date: 2022-11-25
+  authors:
+    - AWS Official
+  source: 'aws.training'
+  topics:
+    - aws
+    - s3
+    - cloud learning
+    - AWS Learning
+    - Freemium
+
+- title: 'Getting Started with AWS'
+  link: http://aws.training
+  formats:
+    - text
+  language: en
+  date: 2022-11-25
+  authors:
+    - AWS Official
+  source: 'aws.training'
+  topics:
+    - aws
+    - s3
+    - cloud learning
+    - AWS Learning
+    - Freemium
+
+- title: 'Getting Started with AWS'
+  link: http://aws.training
+  formats:
+    - text
+  language: en
+  date: 2022-11-25
+  authors:
+    - AWS Official
+  source: 'aws.training'
+  topics:
+    - aws
+    - s3
+    - cloud learning
+    - AWS Learning
     - Freemium
