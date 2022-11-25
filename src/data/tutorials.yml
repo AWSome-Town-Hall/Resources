@@ -1,17 +1,13 @@
-- title: 'Getting Started with AWS'
-  link: http://aws.training/
+- title: 'GatsbyJS: How to Create the Fastest Sites in the World'
+  link: https://www.youtube.com/watch?v=Gtd-Ht-D0sg
   formats:
+    - video
     - text
   language: en
-  date: 2022-11-25
+  date: 2017-10-01
   authors:
-    - AWS
-  source: 'aws.training'
+    - Kyle Mathews
+  source: ReactNext 2017
   topics:
-    - AWS
-    - Cloud Computing
-    - Learning Resources
-
-
-
-
+    - introduction
+    - performance
