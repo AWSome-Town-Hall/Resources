@@ -73,7 +73,7 @@ export default function Directory({
   return (
     <>
       <section>
-        <SrText as="h2">Search for Gatsby JS tutorials</SrText>
+        <SrText as="h2">Search for AWS Resources</SrText>
 
         <StyledSticky>
           {(status: StickyNodeStatus) => (
@@ -106,9 +106,17 @@ export default function Directory({
                   setAuthor={setAuthor}
                   setSource={setSource}
                 />
+                
+                <AddTutorial href="https://join.slack.com/t/awsometownhall/shared_invite/zt-1k4c46783-hznP2GHSTQgBe548ObpiPg">
+                  <span>Join Slack</span>
+                  <HandsUp
+                    emoji="🚀"
+                    ariaLabel="Rocket emoji"
+                  />
+                </AddTutorial>
 
-                <AddTutorial href="https://github.com/ooloth/gatsby-tutorials#how-do-i-add-a-tutorial">
-                  <span>Add a tutorial</span>
+                <AddTutorial href="https://github.com/AWSome-Town-Hall/AWSome-Town-Hall.github.io#how-do-i-add-a-tutorial">
+                  <span>Add an AWS tutorial</span>
                   <HandsUp
                     emoji="🙌"
                     ariaLabel="Emoji of two hands raised in appreciation"
