@@ -23,7 +23,7 @@ export default function Header() {
           />
 
           <Heading>
-            Learn <Bold>AWS</Bold> for <Bold>Free<Bold> {` `}
+            Learn <Bold>AWS</Bold> for Free {` `}
             {count}&nbsp;videos, audios and written tutorials to help you learn{' '}
             <Link href="https://awsome-town-hall.github.io/">AWS</Link>
             {`. `}
