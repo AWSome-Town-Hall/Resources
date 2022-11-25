@@ -1,7 +1,10 @@
 - title: 'GatsbyJS: How to Create the Fastest Sites in the World'
   link: https://www.youtube.com/watch?v=Gtd-Ht-D0sg
+  formats:
+    - video
+    - text
   language: en
-  date: 2017-10-01
+  date: 2022-10-01
   authors:
     - Kyle Mathews
   source: ReactNext 2017
