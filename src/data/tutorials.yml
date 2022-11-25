@@ -1,14 +1,14 @@
-- title: 'Building a Website With Gatsby and a Headless CMS'
-  link: https://fmontes.com/blog/building-a-website-with-gatsby-and-a-headless-cms-part-1/
+- title: 'Getting Started with AWS'
+  link: http://aws.training
   formats:
     - text
   language: en
-  date: 2019-01-19
+  date: 2022-01-19
   authors:
-    - Freddy Montes
-  source: 'fmontes.com'
+    - AWS
+  source: 'aws.training'
   topics:
-    - headless
+    - aws
     - dotcms
     - graphql
 - title: 'Dealing with dynamic images in Gatsby'
