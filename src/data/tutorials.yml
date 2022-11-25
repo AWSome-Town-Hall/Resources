@@ -3,111 +3,61 @@
   formats:
     - text
   language: en
-  date: 2022-11-25
+  date: 2022-01-19
   authors:
-    - AWS Official
+    - AWS
   source: 'aws.training'
   topics:
     - aws
-    - s3
-    - cloud learning
-    - AWS Learning
-    - Freemium
-
-- title: 'AWS Developer 2022 Notes'
-  link: https://github.com/adilshehzad786/AWS-Developer-Associate-Notes
+    - dotcms
+    - graphql
+- title: 'Getting Started with AWS'
+  link: http://aws.training
   formats:
     - text
   language: en
-  date: 2022-11-25
+  date: 2022-01-19
   authors:
-    - Adil Shehzad
-  source: 'https://github.com/adilshehzad786'
+    - AWS
+  source: 'aws.training'
   topics:
     - aws
-    - aws developer
-    - cloud learning
-    - aws learning
     - Freemium
-
-- title: 'Automating Amazon Web Services(AWS) with Lambda, Python, and Boto3'
-  link: https://medium.com/@adilshehzad786/automating-amazon-web-services-aws-with-lambda-python-and-boto3-36311ca97881
+- title: 'Getting Started with AWS'
+  link: http://aws.training
   formats:
     - text
   language: en
-  date: 2022-11-25
+  date: 2022-01-19
   authors:
-    - Adil Shehzad
-  source: 'https://github.com/adilshehzad786'
+    - AWS
+  source: 'aws.training'
   topics:
     - aws
-    - aws developer
-    - cloud learning
-    - aws learning
     - Freemium
-
-- title: 'Automating Amazon Web Services(AWS) with Lambda, Python, and Boto3'
-  link: https://medium.com/@adilshehzad786/automating-amazon-web-services-aws-with-lambda-python-and-boto3-36311ca97881
+- title: 'Getting Started with AWS'
+  link: http://aws.training
   formats:
     - text
   language: en
-  date: 2022-11-25
+  date: 2022-01-19
   authors:
-    - Adil Shehzad
-  source: 'https://github.com/adilshehzad786'
+    - AWS
+  source: 'aws.training'
   topics:
     - aws
-    - aws developer
-    - cloud learning
-    - aws learning
     - Freemium
-  
-- title: 'Automating Amazon Web Services(AWS) with Lambda, Python, and Boto3'
-  link: https://medium.com/@adilshehzad786/automating-amazon-web-services-aws-with-lambda-python-and-boto3-36311ca97881
+- title: 'Getting Started with AWS'
+  link: http://aws.training
   formats:
     - text
   language: en
-  date: 2022-11-25
+  date: 2022-01-19
   authors:
-    - Adil Shehzad
-  source: 'https://github.com/adilshehzad786'
+    - AWS
+  source: 'aws.training'
   topics:
     - aws
-    - aws developer
-    - cloud learning
-    - aws learning
-    - Freemium
-
-- title: 'Automating Amazon Web Services(AWS) with Lambda, Python, and Boto3'
-  link: https://medium.com/@adilshehzad786/automating-amazon-web-services-aws-with-lambda-python-and-boto3-36311ca97881
-  formats:
-    - text
-  language: en
-  date: 2022-11-25
-  authors:
-    - Adil Shehzad
-  source: 'https://github.com/adilshehzad786'
-  topics:
-    - aws
-    - aws developer
-    - cloud learning
-    - aws learning
-    - Freemium
-
-- title: 'Automating Amazon Web Services(AWS) with Lambda, Python, and Boto3'
-  link: https://medium.com/@adilshehzad786/automating-amazon-web-services-aws-with-lambda-python-and-boto3-36311ca97881
-  formats:
-    - text
-  language: en
-  date: 2022-11-25
-  authors:
-    - Adil Shehzad
-  source: 'https://github.com/adilshehzad786'
-  topics:
-    - aws
-    - aws developer
-    - cloud learning
-    - aws learning
     - Freemium
 
 - title: 'Getting Started with AWS'
@@ -115,15 +65,100 @@
   formats:
     - text
   language: en
-  date: 2022-11-25
+  date: 2022-01-19
   authors:
-    - AWS Official
+    - AWS
   source: 'aws.training'
   topics:
     - aws
-    - s3
-    - cloud learning
-    - AWS Learning
+    - Freemium
+- title: 'Getting Started with AWS'
+  link: http://aws.training
+  formats:
+    - text
+  language: en
+  date: 2022-01-19
+  authors:
+    - AWS
+  source: 'aws.training'
+  topics:
+    - aws
+    - Freemium 
+- title: Gatsby and Snipcart E-commerce Tutorial
+  link: https://www.frontendstumbles.com/gatsby-and-snipcart-ecommerce-tutorial/
+  formats:
+    - text
+  language: en
+  date: 2019-07-10
+  length: ''
+  authors:
+    - Issy Dennis
+  source: 'frontendstumbles.com'
+  topics:
+    - ecommerce
+    - snipcart
+    - e-commerce
+    - markdown
+    - styled-components
+    - starters
+
+- title: Using Gatsby Image with Netlify CMS
+  link: https://www.frontendstumbles.com/using-gatsby-image-with-netlify-cms/
+  formats:
+    - text
+  language: en
+  date: 2019-05-24
+  length: ''
+  authors:
+    - Issy Dennis
+  source: 'frontendstumbles.com'
+  topics:
+    - netlify-cms
+    - cms
+    - graphql
+    - markdown
+    - gatsby-image
+    - gatsby-remark-images
+    - gatsby-remark-relative-images
+
+- title: How to make a Gatsby site with Netlify CMS
+  link: https://www.frontendstumbles.com/gatsby-and-netlify-cms-tutorial/
+  formats:
+    - text
+  language: en
+  date: 2019-05-21
+  length: ''
+  authors:
+    - Issy Dennis
+  source: 'frontendstumbles.com'
+  topics:
+    - netlify-cms
+    - cms
+    - graphql
+    - markdown
+- title: 'Getting Started with AWS'
+  link: http://aws.training
+  formats:
+    - text
+  language: en
+  date: 2022-01-19
+  authors:
+    - AWS
+  source: 'aws.training'
+  topics:
+    - aws
+    - Freemium
+- title: 'Getting Started with AWS'
+  link: http://aws.training
+  formats:
+    - text
+  language: en
+  date: 2022-01-19
+  authors:
+    - AWS
+  source: 'aws.training'
+  topics:
+    - aws
     - Freemium
 
 - title: 'Getting Started with AWS'
@@ -131,77 +166,11 @@
   formats:
     - text
   language: en
-  date: 2022-11-25
+  date: 2022-01-19
   authors:
-    - AWS Official
+    - AWS
   source: 'aws.training'
   topics:
     - aws
-    - s3
-    - cloud learning
-    - AWS Learning
     - Freemium
 
-- title: 'Getting Started with AWS'
-  link: http://aws.training
-  formats:
-    - text
-  language: en
-  date: 2022-11-25
-  authors:
-    - AWS Official
-  source: 'aws.training'
-  topics:
-    - aws
-    - s3
-    - cloud learning
-    - AWS Learning
-    - Freemium
-
-- title: 'Getting Started with AWS'
-  link: http://aws.training
-  formats:
-    - text
-  language: en
-  date: 2022-11-25
-  authors:
-    - AWS Official
-  source: 'aws.training'
-  topics:
-    - aws
-    - s3
-    - cloud learning
-    - AWS Learning
-    - Freemium
-
-- title: 'Getting Started with AWS'
-  link: http://aws.training
-  formats:
-    - text
-  language: en
-  date: 2022-11-25
-  authors:
-    - AWS Official
-  source: 'aws.training'
-  topics:
-    - aws
-    - s3
-    - cloud learning
-    - AWS Learning
-    - Freemium
-
-- title: 'Getting Started with AWS'
-  link: http://aws.training
-  formats:
-    - text
-  language: en
-  date: 2022-11-25
-  authors:
-    - AWS Official
-  source: 'aws.training'
-  topics:
-    - aws
-    - s3
-    - cloud learning
-    - AWS Learning
-    - Freemium
