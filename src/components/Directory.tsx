@@ -130,6 +130,14 @@ export default function Directory({
                     ariaLabel="Emoji of two hands raised in appreciation"
                   />
                 </AddTutorial>
+                
+                 <AddTutorial href="https://muhammadadil435786.typeform.com/to/Hm9neDop">
+                  <span>Feedback</span>
+                  <HandsUp
+                    emoji="💌"
+                    ariaLabel="feedback"
+                  />
+                </AddTutorial>
               </Inner>
             </SearchBar>
           )}
