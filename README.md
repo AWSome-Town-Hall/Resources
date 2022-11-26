@@ -1,6 +1,6 @@
 # AWSome Town Hall
 
-[AWSome Town Hall](AWSome-Town-Hall.github.io) is a open source community website that aims to list every
+[AWSome Town Hall](https://awsome-town-hall.github.io/) is a open source community website that aims to list every
 Amazon Web Services(AWS) learning resource currently available online. 🎉
 
 You can find tutorials that interest you in several ways:

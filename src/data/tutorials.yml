@@ -2,175 +2,177 @@
   link: http://aws.training
   formats:
     - text
+    - video
   language: en
-  date: 2022-01-19
+  date: 2022-11-26
   authors:
     - AWS
   source: 'aws.training'
   topics:
-    - aws
-    - dotcms
-    - graphql
-- title: 'Getting Started with AWS'
-  link: http://aws.training
+    - Amazon Web Services
+    - Freemium
+    - Free Cloud Learning Resources
+- title: 'How to Find Secrets that are Accidentally Committed to Version Control System (Git)'
+  link: https://adilshehzad786.medium.com/how-to-find-secrets-that-are-accidentally-committed-to-version-control-system-git-d4bd0b82733f
   formats:
     - text
   language: en
-  date: 2022-01-19
+  date: 2022-11-26
   authors:
-    - AWS
-  source: 'aws.training'
+    - adilshehzad786
+  source: 'Medium'
   topics:
     - aws
     - Freemium
-- title: 'Getting Started with AWS'
-  link: http://aws.training
+    - DevSecOps
+    - Secrets
+- title: 'How to Prepare for AWS Developer Associate (DVA-C01) Exam in 2022'
+  link: https://adilshehzad786.medium.com/how-to-prepare-for-aws-developer-associate-dva-c01-exam-in-2022-4d79ce187c85
   formats:
     - text
   language: en
-  date: 2022-01-19
+  date: 2022-11-26
   authors:
-    - AWS
-  source: 'aws.training'
+    - adilshehzad786
+  source: 'Medium'
   topics:
     - aws
     - Freemium
-- title: 'Getting Started with AWS'
-  link: http://aws.training
+    - AWS Developer
+    - How to
+- title: 'Create your First CI/CD pipeline with AWS & GitHub'
+  link: https://adilshehzad786.medium.com/create-your-first-ci-cd-pipeline-with-aws-github-d40e8fa22d25
   formats:
     - text
   language: en
-  date: 2022-01-19
+  date: 2022-11-26
   authors:
-    - AWS
-  source: 'aws.training'
+    - adilshehzad786
+  source: 'Medium'
   topics:
     - aws
     - Freemium
-- title: 'Getting Started with AWS'
-  link: http://aws.training
+    - DevOps
+    - CI/CD
+    - GitHub
+- title: 'GitOps with Terraform, Amazon Web Services(AWS), and Space Lift'
+  link: https://adilshehzad786.medium.com/gitops-with-terraform-amazon-web-services-aws-and-space-lift-31e561706929
   formats:
     - text
   language: en
-  date: 2022-01-19
+  date: 2022-11-26
   authors:
-    - AWS
-  source: 'aws.training'
+    - adilshehzad786
+  source: 'Medium'
   topics:
     - aws
     - Freemium
-
-- title: 'Getting Started with AWS'
-  link: http://aws.training
+    - Terraform
+    - SpaceLift
+    - IaC
+- title: 'Creating GitOps Pipelines Using Amazon Elastic Kubernetes Service(EKS) and GitHub Actions'
+  link: https://adilshehzad786.medium.com/creating-gitops-pipelines-using-amazon-elastic-kubernetes-service-eks-and-github-actions-cf6f678bdfdf
   formats:
     - text
   language: en
-  date: 2022-01-19
+  date: 2022-11-26
   authors:
-    - AWS
-  source: 'aws.training'
+    - adilshehzad786
+  source: 'Medium'
   topics:
     - aws
     - Freemium
-- title: 'Getting Started with AWS'
-  link: http://aws.training
+    - GitHub Actions
+    - GitHub
+    - Kubernetes
+    - GitOps
+    - EKS
+- title: 'Automating AWS infrastructure using Terraform and GitHub Actions'
+  link: https://adilshehzad786.medium.com/automating-aws-infrastructure-using-terraform-and-github-actions-introduction-to-gitops-part-2-dc1914d74ee0
   formats:
     - text
   language: en
-  date: 2022-01-19
+  date: 2022-11-26
   authors:
-    - AWS
-  source: 'aws.training'
+    - adilshehzad786
+  source: 'Medium'
   topics:
     - aws
     - Freemium 
-- title: Gatsby and Snipcart E-commerce Tutorial
-  link: https://www.frontendstumbles.com/gatsby-and-snipcart-ecommerce-tutorial/
+    - Terraform
+    - IaC
+    - GitHub
+    - GitHub Actions
+- title: 'Introduction to Amazon Web Services(AWS)'
+  link: https://adilshehzad786.medium.com/introduction-to-amazon-web-services-aws-part-1-874d5b209832
   formats:
     - text
+    - video
   language: en
-  date: 2019-07-10
-  length: ''
+  date: 2022-11-26
   authors:
-    - Issy Dennis
-  source: 'frontendstumbles.com'
-  topics:
-    - ecommerce
-    - snipcart
-    - e-commerce
-    - markdown
-    - styled-components
-    - starters
-
-- title: Using Gatsby Image with Netlify CMS
-  link: https://www.frontendstumbles.com/using-gatsby-image-with-netlify-cms/
-  formats:
-    - text
-  language: en
-  date: 2019-05-24
-  length: ''
-  authors:
-    - Issy Dennis
-  source: 'frontendstumbles.com'
-  topics:
-    - netlify-cms
-    - cms
-    - graphql
-    - markdown
-    - gatsby-image
-    - gatsby-remark-images
-    - gatsby-remark-relative-images
-
-- title: How to make a Gatsby site with Netlify CMS
-  link: https://www.frontendstumbles.com/gatsby-and-netlify-cms-tutorial/
-  formats:
-    - text
-  language: en
-  date: 2019-05-21
-  length: ''
-  authors:
-    - Issy Dennis
-  source: 'frontendstumbles.com'
-  topics:
-    - netlify-cms
-    - cms
-    - graphql
-    - markdown
-- title: 'Getting Started with AWS'
-  link: http://aws.training
-  formats:
-    - text
-  language: en
-  date: 2022-01-19
-  authors:
-    - AWS
-  source: 'aws.training'
+    - adilshehzad786
+  source: 'Medium'
   topics:
     - aws
     - Freemium
-- title: 'Getting Started with AWS'
-  link: http://aws.training
+    - Beginner
+- title: Automating Amazon Web Services(AWS) with Lambda, Python, and Boto3
+  link: https://adilshehzad786.medium.com/automating-amazon-web-services-aws-with-lambda-python-and-boto3-36311ca97881
   formats:
     - text
   language: en
-  date: 2022-01-19
+  date: 2022-11-26
+  length: ''
   authors:
-    - AWS
-  source: 'aws.training'
+    - adilshehzad786
+  source: 'Medium'
   topics:
     - aws
-    - Freemium
-
-- title: 'Getting Started with AWS'
-  link: http://aws.training
+    - python
+    - lambda
+    - boto3
+    - cloud automation
+- title: Building Serverless Application Using Amazon Web Services(AWS)
+  link: https://faun.pub/building-serverless-application-using-amazon-web-services-aws-2707573c87df
   formats:
     - text
   language: en
-  date: 2022-01-19
+  date: 2022-11-26
+  length: ''
+  authors:
+    - adilshehzad786
+  source: 'Medium'
+  topics:
+    - aws
+    - Serverless
+    - lambda
+- title: 'A Cloud Guru'
+  link: https://acloudguru.com
+  formats:
+    - text
+    - audio
+    - video
+  language: en
+  date: 2022-11-26
+  authors:
+    - acloud.guru
+  source: 'acloud.guru'
+  topics:
+    - aws
+    - Premium
+    - Top Rated    
+- title: 'AWS Whitepapers & Guides'
+  link: https://aws.amazon.com/whitepapers/?whitepapers-main.sort-by=item.additionalFields.sortDate&whitepapers-main.sort-order=desc&awsf.whitepapers-content-type=*all&awsf.whitepapers-tech-category=*all&awsf.whitepapers-industries=*all&awsf.whitepapers-business-category=*all&awsf.whitepapers-global-methodology=*all
+  formats:
+    - text
+  language: en
+  date: 2022-11-26
   authors:
     - AWS
-  source: 'aws.training'
+  source: 'aws.amazon.com'
   topics:
     - aws
     - Freemium
+    - Whitepapers
 
