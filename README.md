@@ -1,7 +1,7 @@
-# Gatsby Tutorials
+# AWSome Town Hall
 
-[Gatsby Tutorials](https://www.gatsbytutorials.com) is a website that aims to list every
-GatsbyJS learning resource currently available online. 🎉
+[AWSome Town Hall](AWSome-Town-Hall.github.io) is a open source community website that aims to list every
+Amazon Web Services(AWS) learning resource currently available online. 🎉
 
 You can find tutorials that interest you in several ways:
 
@@ -18,28 +18,34 @@ Notice a tutorial is missing from the list? Please add it! 🙏
 
 The easiest approach is to use the make your changes here on GitHub:
 
-1. **Open** the [`src/data/tutorials.yml` file on GitHub](https://github.com/ooloth/gatsby-tutorials/blob/master/src/data/tutorials.yml) 📂
+1. Clone the GitHub Repository ``git clone https://github.com/AWSome-Town-Hall/AWSome-Town-Hall.github.io.git ``
+
+2. Create a new branch from main branch `` git checkout -b <githubusername-patch>``
+
+3. **Open** the [`src/data/tutorials.yml` file on GitHub](https://github.com/AWSome-Town-Hall/AWSome-Town-Hall.github.io/blob/main/src/data/tutorials.yml) 📂
 2. Use the **file editor** to add a new tutorial (or edit existing ones) ✏️
 3. **Preview** your changes 👓
-4. **Commit** your changes 👍
-5. Create a **pull request** 📤
+4. **Staged & Commit** your changes using this command ``git add . && git commit -m "your change"``👍
+5. **Push** your change using this command ``git push <branch name>``
+5. Create a **pull request** from your ``branch`` to ``master``📤
+5. Assign the **Pull request** to @adilshehzad786
 
 **Please follow this format and indentation:**
 
 ```yaml
-- title: 'GatsbyJS: How to Create the Fastest Sites in the World'
-  link: https://www.youtube.com/watch?v=Gtd-Ht-D0sg
+- title: 'Getting Started with AWS'
+  link: http://aws.training/
   formats:
     - video
     - text
   language: en
-  date: 2017-10-01
+  date: 2022-11-26
   authors:
-    - Kyle Mathews
-  source: ReactNext 2017
+    - AWS Training
+  source: AWS
   topics:
-    - introduction
-    - performance
+    - AWS
+    - Freemium
 ```
 
 - `title` - Title of tutorial (`string`; required)
@@ -60,24 +66,3 @@ The easiest approach is to use the make your changes here on GitHub:
 Rather than adding every tutorial in the series separately, please add the entire series
 as one entry that links to the series homepage (or the first tutorial in the series).
 
-## Coming Soon
-
-### Better filters 🏷
-
-- [ ] Filter tutorials by language
-- [ ] Filter by multiple topics at once
-- [x] ~Cancel active filter by clicking it again~
-
-### Better performance ⚡️
-
-- [x] ~Limit initial length of tutorials list~
-- [x] ~Generate filter lists at build time~
-
-### Better search 🕵️‍♂️
-
-- [x] ~Allow non-sequential search terms~
-- [ ] Highlight search terms in search results
-
----
-
-Happy learning! 🤓
