@@ -27,7 +27,7 @@ The easiest approach is to use the make your changes here on GitHub:
 3. **Preview** your changes 👓
 4. **Staged & Commit** your changes using this command ``git add . && git commit -m "your change"``👍
 5. **Push** your change using this command ``git push <branch name>``
-5. Create a **pull request** from your ``branch`` to ``master``📤
+5. Create a **pull request** from your ``branch`` to ``main``📤
 5. Assign the **Pull request** to @adilshehzad786
 
 **Please follow this format and indentation:**
