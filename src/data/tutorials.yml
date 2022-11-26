@@ -12,6 +12,21 @@
     - Amazon Web Services
     - Freemium
     - Free Cloud Learning Resources
+    
+- title: 'How to pass AWS Certification exams'
+  link: https://dev.to/awsometownhall/how-to-pass-aws-certification-exams-4fnn
+  formats:
+    - text
+  language: en
+  date: 2022-11-26
+  authors:
+    - AWSome TownHall
+  source: 'Dev.to'
+  topics:
+    - Amazon Web Services
+    - Freemium
+    - Free Cloud Learning Resources
+    
 - title: 'How to Find Secrets that are Accidentally Committed to Version Control System (Git)'
   link: https://adilshehzad786.medium.com/how-to-find-secrets-that-are-accidentally-committed-to-version-control-system-git-d4bd0b82733f
   formats:
