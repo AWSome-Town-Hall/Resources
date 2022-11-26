@@ -47,6 +47,7 @@ The easiest approach is to use the make your changes here on GitHub:
     - AWS
     - Freemium
 ```
+_Please change the topic tags relevant to the title._   
 
 - `title` - Title of tutorial (`string`; required)
 - `link` - Working URL where tutorial can be found (`string`; required)
