@@ -18,7 +18,7 @@ Notice a tutorial is missing from the list? Please add it! 🙏
 
 The easiest approach is to use the make your changes here on GitHub:
 
-1. Clone the GitHub Repository ``git clone https://github.com/AWSome-Town-Hall/AWSome-Town-Hall.github.io.git ``
+1. Fork this GitHub Repository ``https://github.com/AWSome-Town-Hall/AWSome-Town-Hall.github.io/fork ``
 
 2. Create a new branch from main branch `` git checkout -b <githubusername-patch>``
 
