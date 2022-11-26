@@ -15,6 +15,14 @@ export default function Footer() {
           </Link>
           .
         </Paragraph>
+        
+        <Paragraph>
+          Join our  {' '}
+          <Link href="https://github.com/AWSome-Town-Hall/AWSome-Town-Hall-Support/issues/new?assignees=&labels=invite+me&template=invitation.md&title=Please+invite+me+to+the+GitHub+Community+Organization">
+            GitHub Organization
+          </Link>
+          .
+        </Paragraph>
 
         <Paragraph>
           Built by{` `}
