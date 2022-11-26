@@ -22,7 +22,7 @@ The easiest approach is to use the make your changes here on GitHub:
 
 2. Create a new branch from main branch `` git checkout -b <githubusername-patch>``
 
-3. **Open** the [`src/data/tutorials.yml` file on GitHub](https://github.com/AWSome-Town-Hall/AWSome-Town-Hall.github.io/blob/main/src/data/tutorials.yml) 📂
+3. **Open** the [`src/data/tutorials.yml` file on GitHub](/src/data/tutorials.yml) 📂
 4. Use the **file editor** to add a new tutorial (or edit existing ones) ✏️
 5. **Preview** your changes 👓
 6. **Commit** your changes 👍
