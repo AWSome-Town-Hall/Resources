@@ -161,22 +161,7 @@
   topics:
     - aws
     - Serverless
-    - lambda
-- title: 'A Cloud Guru'
-  link: https://acloudguru.com
-  formats:
-    - text
-    - audio
-    - video
-  language: en
-  date: 2022-11-26
-  authors:
-    - acloud.guru
-  source: 'acloud.guru'
-  topics:
-    - aws
-    - Premium
-    - Top Rated    
+    - lambda 
 - title: 'AWS Whitepapers & Guides'
   link: https://aws.amazon.com/whitepapers/?whitepapers-main.sort-by=item.additionalFields.sortDate&whitepapers-main.sort-order=desc&awsf.whitepapers-content-type=*all&awsf.whitepapers-tech-category=*all&awsf.whitepapers-industries=*all&awsf.whitepapers-business-category=*all&awsf.whitepapers-global-methodology=*all
   formats:
