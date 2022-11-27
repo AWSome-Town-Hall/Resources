@@ -190,36 +190,6 @@
     - aws
     - Freemium
     - Whitepapers
-- title: 'Dynamic provisioning of Persistent Volumes using Amazon EFS CSI driver in EKS.'
-  link: https://dev.to/akhilsailatchireddi/dynamic-provisioning-of-persistent-volumes-using-amazon-efs-csi-driver-in-eks-4mal
-  formats:
-    - text
-  language: en
-  date: 2022-11-27
-  authors:
-    - Akhil Sai Latchireddi
-  source: 'dev.to'
-  topics:
-    - aws
-    - Freemium
-    - devops
-    - kubernetes
-    - eks
-- title: 'Dynamic provisioning of Persistent Volumes using Amazon EFS CSI driver in EKS.'
-  link: https://dev.to/akhilsailatchireddi/dynamic-provisioning-of-persistent-volumes-using-amazon-efs-csi-driver-in-eks-4mal
-  formats:
-    - text
-  language: en
-  date: 2022-11-27
-  authors:
-    - Akhil Sai Latchireddi
-  source: 'dev.to'
-  topics:
-    - aws
-    - Freemium
-    - devops
-    - kubernetes
-    - eks
 - title: 'Customized S3 Trigger to Invoke Lambda Function through CloudFormation'
   link: https://dev.to/aws-builders/customized-s3-trigger-to-invoke-lambda-function-through-cloudformation-4cig
   formats:
@@ -250,21 +220,6 @@
     - devops
     - kubernetes
     - eks
-- title: 'Customized S3 Trigger to Invoke Lambda Function through CloudFormation'
-  link: https://dev.to/aws-builders/customized-s3-trigger-to-invoke-lambda-function-through-cloudformation-4cig
-  formats:
-    - text
-  language: en
-  date: 2022-11-27
-  authors:
-    - GargeeBhatnagar
-  source: 'dev.to'
-  topics:
-    - aws
-    - Freemium
-    - cloudformation
-    - s3
-    - lambdafunction
 - title: 'My AWS Developer Associate study guide'
   link: https://dev.to/aws-builders/my-aws-developer-associate-study-guide-298l
   formats:
@@ -337,3 +292,115 @@
     - security
     - cybersecurity
     - tooling
+- title: 'Monoliths vs Microservices vs Serverless'
+  link: https://dev.to/aws-builders/monoliths-vs-microservices-vs-serverless-393m
+  formats:
+    - text
+  language: en
+  date: 2022-11-26
+  authors:
+    - Frank Osasere Idugboe
+  source: 'dev.to'
+  topics:
+    - architecture
+    - aws
+    - beginners
+    - devops
+- title: 'Custom S3 requests with AWS Go SDK'
+  link: https://dev.to/enteio/custom-s3-requests-with-aws-go-sdk-4ga4
+  formats:
+    - text
+  language: en
+  date: 2022-11-26
+  authors:
+    - enteio
+  source: 'dev.to'
+  topics:
+    - aws
+    - Freemium
+    - go
+    - tutorial
+    - cloud
+- title: 'CloudWatch Metrics Pricing - FinOps'
+  link: https://dev.to/wbattou/cloudwatch-metrics-pricing-finops-65d
+  formats:
+    - text
+  language: en
+  date: 2022-11-22
+  authors:
+    - wbattou
+  source: 'dev.to'
+  topics:
+    - aws
+    - finops
+    - cloudwatch
+- title: 'Custom DNS for AWS Private API Gateway'
+  link: https://dev.to/markilott/custom-dns-for-aws-private-api-gateway-3j90
+  formats:
+    - text
+  language: en
+  date: 2022-11-26
+  authors:
+    - markilott
+  source: 'dev.to'
+  topics:
+    - aws
+    - typescript
+    - devops
+    - serverless
+- title: 'Are certifications money wasted or invested?'
+  link: https://dev.to/eightplabs/are-certifications-money-wasted-or-invested-1e4f
+  formats:
+    - text
+  language: en
+  date: 2022-11-23
+  authors:
+    - eightplabs
+  source: 'dev.to'
+  topics:
+    - aws
+    - certifications
+    - career
+    - tutorial
+- title: 'What is Autoscaling and how we use it to scale Inspector'
+  link: https://dev.to/inspector/what-is-autoscaling-and-how-we-use-it-to-scale-inspector-14km
+  formats:
+    - text
+  language: en
+  date: 2022-11-22
+  authors:
+    - Valerio
+  source: 'dev.to'
+  topics:
+    - aws
+    - webdev
+    - devops
+    - saas
+- title: 'Deploy your containerized application to AWS ECS in 10 minutes using Terraform'
+  link: https://dev.to/canida/deploy-your-containerized-application-to-aws-ecs-in-10-minutes-using-terraform-4fim
+  formats:
+    - text
+  language: en
+  date: 2022-11-25
+  authors:
+    - Nico Duldhardt
+  source: 'dev.to'
+  topics:
+    - aws
+    - ecs
+    - terraform
+    - fargate
+- title: 'How to use kubernetes yaml file env variables in react applications ?'
+  link: https://dev.to/dhavalaprashanth/how-to-use-kubernetes-yaml-file-env-variables-in-react-applications--kh4
+  formats:
+    - text
+  language: en
+  date: 2022-11-24
+  authors:
+    - dhavalaprashanth
+  source: 'dev.to'
+  topics:
+    - aws
+    - react
+    - reactnative
+    - cloud
