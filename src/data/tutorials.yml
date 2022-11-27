@@ -190,3 +190,150 @@
     - aws
     - Freemium
     - Whitepapers
+- title: 'Dynamic provisioning of Persistent Volumes using Amazon EFS CSI driver in EKS.'
+  link: https://dev.to/akhilsailatchireddi/dynamic-provisioning-of-persistent-volumes-using-amazon-efs-csi-driver-in-eks-4mal
+  formats:
+    - text
+  language: en
+  date: 2022-11-27
+  authors:
+    - Akhil Sai Latchireddi
+  source: 'dev.to'
+  topics:
+    - aws
+    - Freemium
+    - devops
+    - kubernetes
+    - eks
+- title: 'Dynamic provisioning of Persistent Volumes using Amazon EFS CSI driver in EKS.'
+  link: https://dev.to/akhilsailatchireddi/dynamic-provisioning-of-persistent-volumes-using-amazon-efs-csi-driver-in-eks-4mal
+  formats:
+    - text
+  language: en
+  date: 2022-11-27
+  authors:
+    - Akhil Sai Latchireddi
+  source: 'dev.to'
+  topics:
+    - aws
+    - Freemium
+    - devops
+    - kubernetes
+    - eks
+- title: 'Customized S3 Trigger to Invoke Lambda Function through CloudFormation'
+  link: https://dev.to/aws-builders/customized-s3-trigger-to-invoke-lambda-function-through-cloudformation-4cig
+  formats:
+    - text
+  language: en
+  date: 2022-11-27
+  authors:
+    - GargeeBhatnagar
+  source: 'dev.to'
+  topics:
+    - aws
+    - Freemium
+    - cloudformation
+    - s3
+    - lambdafunction
+- title: 'Dynamic provisioning of Persistent Volumes using Amazon EFS CSI driver in EKS.'
+  link: https://dev.to/akhilsailatchireddi/dynamic-provisioning-of-persistent-volumes-using-amazon-efs-csi-driver-in-eks-4mal
+  formats:
+    - text
+  language: en
+  date: 2022-11-27
+  authors:
+    - Akhil Sai Latchireddi
+  source: 'dev.to'
+  topics:
+    - aws
+    - Freemium
+    - devops
+    - kubernetes
+    - eks
+- title: 'Customized S3 Trigger to Invoke Lambda Function through CloudFormation'
+  link: https://dev.to/aws-builders/customized-s3-trigger-to-invoke-lambda-function-through-cloudformation-4cig
+  formats:
+    - text
+  language: en
+  date: 2022-11-27
+  authors:
+    - GargeeBhatnagar
+  source: 'dev.to'
+  topics:
+    - aws
+    - Freemium
+    - cloudformation
+    - s3
+    - lambdafunction
+- title: 'My AWS Developer Associate study guide'
+  link: https://dev.to/aws-builders/my-aws-developer-associate-study-guide-298l
+  formats:
+    - text
+  language: en
+  date: 2022-11-27
+  authors:
+    - sri
+  source: 'dev.to'
+  topics:
+    - aws
+    - Freemium
+    - awscommunity
+    - developer
+- title: 'Kubernetes by AWS Management Console in step by step'
+  link: https://dev.to/zahraajawad/kubernetes-by-aws-management-console-in-step-by-step-417i
+  formats:
+    - text
+  language: en
+  date: 2022-11-27
+  authors:
+    - Zahraa Jawad
+  source: 'dev.to'
+  topics:
+    - aws
+    - Freemium
+    - awscommunity
+    - developer
+- title: 'Kubernetes by AWS Management Console in step by step'
+  link: https://dev.to/zahraajawad/kubernetes-by-aws-management-console-in-step-by-step-417i
+  formats:
+    - text
+  language: en
+  date: 2022-11-27
+  authors:
+    - Zahraa Jawad
+  source: 'dev.to'
+  topics:
+    - aws
+    - Freemium
+    - awscommunity
+    - developer
+- title: 'Streamlining AMIs using Packer, Vault & GitHub Actions'
+  link: https://dev.to/mukulmantosh/streamlining-amis-using-packer-vault-github-actions-18g
+  formats:
+    - text
+  language: en
+  date: 2022-11-27
+  authors:
+    - Mukul Mantosh
+  source: 'dev.to'
+  topics:
+    - aws
+    - Freemium
+    - packer
+    - ami
+    - hashicorp
+- title: 'Securing a new AWS account - Starting with Trusted Advisor'
+  link: https://dev.to/mksingh/how-to-recover-your-ec2-instance-key-pair-398i
+  formats:
+    - text
+  language: en
+  date: 2022-11-26
+  authors:
+    - Jon Holman
+  source: 'dev.to'
+  topics:
+    - aws
+    - Freemium
+    - security
+    - cybersecurity
+    - tooling
