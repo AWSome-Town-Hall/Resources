@@ -107,22 +107,7 @@ export default function Directory({
                   setSource={setSource}
                 />
                 
-                <AddTutorial href="https://github.com/AWSome-Town-Hall/AWSome-Town-Hall-Support/issues/new?assignees=&labels=invite+me&template=invitation.md&title=Please+invite+me+to+the+GitHub+Community+Organization">
-                  <span>Join GitHub Org </span>
-                  <HandsUp
-                    emoji="👋"
-                    ariaLabel="wave"
-                  />
-                </AddTutorial>
                 
-                <AddTutorial href="https://join.slack.com/t/awsometownhall/shared_invite/zt-1k4c46783-hznP2GHSTQgBe548ObpiPg">
-                  <span>Join Slack</span>
-                  <HandsUp
-                    emoji="🚀"
-                    ariaLabel="Rocket emoji"
-                  />
-                </AddTutorial>
-
                 <AddTutorial href="https://github.com/AWSome-Town-Hall/AWSome-Town-Hall.github.io#how-do-i-add-a-tutorial">
                   <span>Add an AWS tutorial</span>
                   <HandsUp
@@ -131,13 +116,6 @@ export default function Directory({
                   />
                 </AddTutorial>
                 
-                 <AddTutorial href="https://muhammadadil435786.typeform.com/to/Hm9neDop">
-                  <span>Feedback</span>
-                  <HandsUp
-                    emoji="💌"
-                    ariaLabel="feedback"
-                  />
-                </AddTutorial>
               </Inner>
             </SearchBar>
           )}
