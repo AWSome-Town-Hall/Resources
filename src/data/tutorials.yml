@@ -389,3 +389,70 @@
     - react
     - reactnative
     - cloud
+- title: 'AWS Cloud Practitioner - Insights Mind Map'
+  link: https://dev.to/larawehbe/aws-cloud-practitioner-insights-mind-map-ci8
+
+  formats:
+    - text
+  language: en
+  date: 2022-11-29
+  authors:
+    - Lara Wehbe
+  source: 'dev.to'
+  topics:
+    - aws
+    - cloudskills
+    - devops
+    beginners
+- title: 'AWS NLP Newsletter Archive Directory'
+  link: https://dev.to/aws/aws-nlp-newsletter-archive-directory-mj2
+  formats:
+    - text
+  language: en
+  date: 2022-11-29
+  authors:
+    - Mia Chang
+  source: 'dev.to'
+  topics:
+    - aws
+    - nlp
+    - machinelearning
+    - ai
+- title: 'Can AWS lambda secure your serverless app?'
+  link: https://dev.to/hirendhaduk_/can-aws-lambda-secure-your-serverless-app-89k
+  formats:
+    - text
+  language: en
+  date: 2022-11-29
+  authors:
+    - Hiren Dhaduk
+  source: 'dev.to'
+  topics:
+    - aws
+    - devjournal
+    - icymi
+    - serverless
+- title: 'Build CRUD API with AWS Lambda and DynamoDB'
+  link: https://dev.to/ckmonish2000/build-crud-api-with-aws-lambda-and-dynamodb-clj
+  formats:
+    - text
+  language: en
+  date: 2022-11-29
+  authors:
+    - ckmonish2000
+  source: 'dev.to'
+  topics:
+    - aws
+    - serverless
+    - node
+- title: 'What is it that makes AWS so well-known?'
+  link: https://dev.to/rawati/what-is-it-that-makes-aws-so-well-known-2g35
+  formats:
+    - text
+  language: en
+  date: 2022-11-29
+  authors:
+    - rawati
+  source: 'dev.to'
+  topics:
+    - aws
